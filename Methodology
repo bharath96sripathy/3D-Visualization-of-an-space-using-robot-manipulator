@@ -1,0 +1,15 @@
+•	An ultrasonic sensor is connected to the micro controller (ARDUINO).
+•	Ultrasonic sensor is capable of sending and receiving sound waves. 
+•	The sensor is made to rotate to measure distance at every angle.
+•	The position of ultrasonic sensor is controlled by using 2 servo motors.
+•	One motor is mounted vertically for the horizontal movement of the sensor.
+•	Other motor is mounted horizontally on the shaft of the vertically mounted motor.
+•	These two motors help the ultrasonic  sensor to move along x and y direction. 
+•	The ‘Trig’ pin in the ultrasonic sensor emits sound waves.
+•	The ‘Echo’ pin in the ultrasonic sensor receives the reflected wave from the object.
+•	This data is transferred to the microcontroller (ARDUINO) through serial communication.
+•	The control module (Arduino) sends the angle position of the motor, the processing module (Ultrasonic sensor) gives the distance of the object/obstacle.
+•	Interfacing is done between the ‘Arduino’ and ‘Processing’ .
+•	This enables serial communication in between ‘Arduino’ and ‘Processing’.
+•	The serial data transferred to ‘Processing’ .
+•	The data is visualized in 3 dimensions using ‘Processing’.
