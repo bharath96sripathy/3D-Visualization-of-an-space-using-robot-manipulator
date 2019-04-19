@@ -1,0 +1,87 @@
+Skip to content
+Your account has been flagged.
+Because of that, your profile is hidden from the public. If you believe this is a mistake, contact support to have your account status reviewed.
+jsatellite waves
+Repositories5
+Code215K+
+Commits47
+Issues410
+Marketplace0
+Topics0
+Wikis86
+Users0
+State
+
+Language
+
+Sort
+
+410 issues
+Satellite Radio-Waves
+#26
+Twonki/Solaris
+Opened by Twonki on Aug 31, 2018 • 1 comment
+Handle ocean obs for WAVES simulation
+#53
+Stylianos has sample wave spectra obs data (insitu and satellite measurements) that contains a 2D array of floating point numbers per location. The netcdf obs file will need to be enhanced (as well as the ObsSpace in-memory store) to handle a 2D array element for each location.
+
+JCSDA/ioda-converters
+Opened by srherbener on Dec 3, 2018
+Oceanic Nonlinear Internal Solitary Waves From the Lombok Strait
+#313
+Oceanic Nonlinear Internal Solitary Waves From the Lombok Strait On November 1, 2016, NASA’s Aqua satellite passed over Indonesia, allowing the Moderate Resolution Imaging Spectroradiometer (MODIS ...
+
+fanweiya/blog
+Opened by fanweiya on Dec 7, 2016
+Oceanic Nonlinear Internal Solitary Waves From the Lombok Strait On November 1 2016 NASAs Aqua satellite passed over Indonesia allowing the Moderate Resolution Imaging Spectroradiometer (MODIS) on board to capture a stunning true-color image of oceanic nonlinear internal solitary waves from the Lombok Strait. | http://ift.tt/2gTsLOY | December 07 2016 | http://ift.tt/2h5S2Dz
+#500
+Oceanic Nonlinear Internal Solitary Waves From the Lombok Strait On November 1, 2016, NASA’s Aqua satellite passed over Indonesia, allowing the Moderate Resolution Imaging Spectroradiometer (MODIS ...
+
+InterImmCenter/feed
+Opened by InterImmCenter on Dec 7, 2016
+Can We Get a Time Of Flight Property?
+#22
+Time of flight meaning how long the satellite has been up or how long it takes radio waves to reach Earth from it?
+
+jeyoder/ThingsInSpace
+Opened by Astrodym on Jun 9, 2018 • 2 comments
+Render closed ways tagged with man_made=reservoir_covered
+#2620
+gravitystorm/openstreetmap-carto
+Opened by stragu on Apr 26, 2017 • 23 comments
+Loss of sound with ffmpeg
+#135
+This is due to the nature of radio waves scattering off ice crystals in heavy clouds. This will translate from macroblocks to complete loss of reception, depending on the intensity of the phenomena ...
+
+braice/MuMuDVB
+Opened by nightshadow36 on Oct 2, 2016 • 4 comments
+use a new avatar
+#3
+... aircraft-guiding orange glowlights - Signal... satellite, radio waves, antenna - Package: box, cargo, bow on top, etc - Telephone - Checkmark - Ship
+
+release-notifier/release-notifier
+Opened by zeke on Jan 29, 2018 • 5 comments
+Redesign of radio contact with archive
+#209
+... waves travel with speed of light. So two way communication over wast distances might actually require warp speed to complete in a reasonable amount of time. 2. Antennas use electricity. 3 ...
+
+Nivekk/KOS
+Opened by palaslet on Nov 4, 2013 • 5 comments
+An introduction to citizen data science with Home-Assistant
+#583
+... interest Speaker Bio Robin has a background in experimental physics, having completed a PhD at Cambridge on the topic of plasmonic waves. Fast forward a few years, and he makes a living designing and ...
+
+dnaranjo89/test_script
+Opened by dnaranjo89 on Apr 16, 2018
+© 2019 GitHub, Inc.
+Terms
+Privacy
+Security
+Status
+Help
+Contact GitHub
+Pricing
+API
+Training
+Blog
+About
